@@ -171,7 +171,7 @@ body{
     height:98.5px;
     width:78.8px;
     border-radius:50%;
-    background-image:url(images/login_page.jpg);
+    background-image:url(login_page.jpg);
     background-size: cover;
     /* *************************** */
     animation-name:ani;

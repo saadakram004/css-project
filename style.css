@@ -348,3 +348,87 @@ body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:#212529;
 }
+/* ******************* i pad ***************************** */
+@media (max-width: 1024px)
+{
+    .navbar
+    {
+        width:1024px;
+    }
+   #bars{
+    padding-right:10px;
+   }
+    #name{
+        font-size:10px ;
+    }
+    #moto{ 
+        font-size:8px ;
+    }
+    #expand{
+    margin-right: 10px; 
+    }
+    #bell{
+        padding:20px 0px 20px 10px;
+        margin-right:20px; 
+    }
+    .symbol{
+        margin-right: 40px; 
+    }
+    #dashboard{
+        width:1024px;
+    }
+    .mainpage{
+    height:1800px;
+    width:1024px;
+    } 
+    .face{
+        height:54.5px;
+    }
+    #space{
+    margin-left:0px;
+    }
+} 
+/* **********************************iphone*********************************** */
+@media (max-width: 430px)
+{
+    .navbar
+    {
+        width:430px;
+    }
+   #bars{
+    padding-right:10px;
+   }
+    #name{
+        font-size:10px ;
+    }
+    #moto{ 
+        font-size:8px ;
+    }
+    #expand{
+    margin-right: 10px; 
+    }
+    #bell{
+        padding:20px 0px 20px 10px;
+        margin-right:20px; 
+    }
+    .symbol{
+        margin-right: 40px; 
+    }
+    #dashboard{
+        width:430px;
+    }
+    .mainpage{
+    height:2000px;
+    width:390px;
+    } 
+    #stats{
+    display:flex; 
+    flex-direction:column;
+    }
+    #info_change_1_1{
+        padding-left:80px;
+    }
+    #space{
+    margin-left:0px;
+    }
+} 

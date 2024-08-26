@@ -425,6 +425,9 @@ body{
     display:flex; 
     flex-direction:column;
     }
+    .face{
+        height:78.8px;
+    }
     #info_change_1_1{
         padding-left:80px;
     }
